@@ -1,0 +1,11 @@
+管道缺陷检测nc=4类
+names: ['Dent', 'Fracture', 'Healthy', 'corrosion']
+# 凹陷、裂纹 、健康、腐蚀
+
+1500张图片。
+有效标注行数(含所有类别): 2089
+类别统计(0/1/2/3):
+  class 0: 82
+  class 1: 823
+  class 2: 151
+  class 3: 1033
