@@ -1,0 +1,12 @@
+Best Accuracy: 0.9652777777777778
+
+              precision    recall  f1-score   support
+
+     no Leak       1.00      1.00      1.00       180
+  0.4mm leak       0.98      0.98      0.98       180
+    2mm leak       0.92      0.97      0.94       180
+    4mm leak       0.97      0.92      0.94       180
+
+    accuracy                           0.97       720
+   macro avg       0.97      0.97      0.97       720
+weighted avg       0.97      0.97      0.97       720
